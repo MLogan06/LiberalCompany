@@ -1,0 +1,11 @@
+{
+    "name": "LiberalCompany",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/MLogan06/LiberalCompany",
+    "description": "Adds boobbox music and changes posters with pictures of my IRL friends (:",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"femboytv-LethalPosters-1.2.0",
+		"CodeEnder-Custom_Boombox_Fix-1.2.2"
+    ]
+}
